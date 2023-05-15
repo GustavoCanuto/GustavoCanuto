@@ -20,7 +20,7 @@
   
   ##Stats
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <!--
