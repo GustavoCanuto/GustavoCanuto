@@ -14,11 +14,15 @@
   <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
   <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac"/>
+  
+  
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  ##Stats
   
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 <!--
 **GustavoCanuto/GustavoCanuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
