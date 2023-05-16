@@ -12,7 +12,7 @@ let description = {
 <div>
 <p align="center" style="display: flex;">
  <a href = "mailto:gustavo-canuto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/gustavocanuto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="www.linkedin.com/in/gustavocanuto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </p>
  <br>
 
