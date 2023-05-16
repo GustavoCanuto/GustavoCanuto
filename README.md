@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=95&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=298EBB&size=35&center=true&vCenter=true&width=1000&repeat=false&lines=Olá,+Seja+Bem-Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
@@ -25,7 +27,7 @@
   
 <div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
+ <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=95&section=footer"/>
 
 <!--
 **GustavoCanuto/GustavoCanuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
