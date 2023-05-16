@@ -1,15 +1,22 @@
 # 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2D9CCD&size=25&center=true&vCenter=true&width=1000&repeat=false&lines=Olá,+Seja+Bem-Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2D9CCD&size=25&center=true&vCenter=true&width=1000&repeat=false&lines=Hello,+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-### Hi there 👋
+```javascript 
+let description = {
+    name: "Gustavo",
+    age: 25,
+    country: "Brazil",
+    course: "Desenvolvimento de Software Multiplaforma"
+};
+```
 
+## 📈Stats 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCanuto&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" alt="Gustavo stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
 
 
-  ### Tecnologias 
-
+  ## 🚀Skils 
 <div style="display: inline_block"> <br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   
