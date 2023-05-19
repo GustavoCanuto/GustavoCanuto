@@ -21,7 +21,8 @@ let description = {
 </div>
 
 ## 🚀Skils 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block"> 
+    
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   
   <img align="center" alt="css5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
