@@ -13,16 +13,13 @@ let description = {
 <p align="center" style="display: flex;">
  <a href = "mailto:gustavo-canuto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener"></a>
 <a href="https://www.linkedin.com/in/gustavocanuto" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-   
 </p>
- <br>
-
+ 
 ## 📈Stats 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCanuto&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" alt="Gustavo stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
 <br>
-
   ## 🚀Skils 
 <div style="display: inline_block"> <br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
