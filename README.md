@@ -19,8 +19,8 @@ let description = {
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCanuto&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" alt="Gustavo stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
-<br>
-  ## 🚀Skils 
+
+## 🚀Skils 
 <div style="display: inline_block"> <br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   
