@@ -17,7 +17,7 @@ let description = {
 
 ## 📈Stats 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats-omega-five-30.vercel.app/api?username=GustavoCanuto&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" alt="Gustavo stats" /> <img width="41%" height="195px" src="https://github-readme-stats-omega-five-30.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&layout=compact&hide_border=true&theme=github_dark_dimmed" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCanuto&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" alt="Gustavo stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCanuto&hide_progress=true&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
 
 ## 🚀Skils 
